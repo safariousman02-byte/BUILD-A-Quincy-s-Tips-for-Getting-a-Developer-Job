@@ -16,3 +16,14 @@
 
  * The cite has been used to git the link for the blockquote.
  * The &mdash has been used to add a proffessional dash to the new sentense.
+
+ ## COMPLETION OF THE PROJECT
+
+ ## FINAL RESULT 
+
+ ### MY CODING SPACE
+
+ ![ALT](/ASSETS/coding%20space.png)
+
+ ### MY RESULT 
+ ![alt](/ASSETS/result.png)
