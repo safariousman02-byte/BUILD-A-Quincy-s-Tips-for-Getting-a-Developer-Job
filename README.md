@@ -11,3 +11,8 @@
  ## COMPLETING STEP 7 WITH THE USE OF "blockquote"
 
  * This is used the put a block of text in the box like shape
+
+ ## COMLETING STEP 9 WITH cit and &mdash elements
+
+ * The cite has been used to git the link for the blockquote.
+ * The &mdash has been used to add a proffessional dash to the new sentense.
