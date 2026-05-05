@@ -7,3 +7,7 @@
  ## COMPLETING STEP 4 USING "cite"
 
  * This tag is used to provide the link of the website where the quote has been taken from
+
+ ## COMPLETING STEP 7 WITH THE USE OF "blockquote"
+
+ * This is used the put a block of text in the box like shape
